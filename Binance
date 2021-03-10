@@ -1,0 +1,4 @@
+import ccxt
+
+apikey = "GVEXiv0R7t8ev72uXDHFzwVNDRNlkrwyr9SFOFHtuBAYel2vZmns9709iSPGcpIB"
+secretkey = "RaiyFDJo4PzlyOH1WISwbMlU0yHXg6zxFb1ucdMozb0Qce21NLrpZjv2bKKfyh2W"
